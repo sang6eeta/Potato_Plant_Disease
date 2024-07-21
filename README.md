@@ -1,4 +1,4 @@
-# Potato Disease Classification using CNN
+# Potato Plant Disease Classification using CNN
 
 This project is focused on building and training a Convolutional Neural Network (CNN) to classify images of potato plants into three categories: healthy, early blight, and late blight.
 The model is implemented using PyTorch.
