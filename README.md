@@ -5,7 +5,7 @@ The model is implemented using PyTorch.
 
 ## Project Structure
 
-- `model.py`: Contains the implementation of the Improved CNN model.
+- `model.py`: Contains the implementation of the CNN model.
 - `train.py`: Script to train the model.
 - `data_loader.py`: Script to load and preprocess the dataset.
 
